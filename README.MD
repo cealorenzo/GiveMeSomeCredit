@@ -16,7 +16,7 @@ This project aims to improve the state of the art in credit scoring by predictin
 
 ## Requirements
 
-This project uses Python 3.8. To install the necessary packages, run the following command:
+This project uses Python 3.8.8. To install the necessary packages, run the following command:
 
 ```bash
 pip install -r requirements.txt
